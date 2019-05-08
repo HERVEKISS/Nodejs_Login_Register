@@ -1,1 +1,2 @@
-i'miuyfg 
+to run node app:
+npm run dev
